@@ -1,0 +1,1 @@
+https://github.com/sqlworldwide/Presentations/tree/master/Lightning%20talk%20-%20Query%20store%20hints%20demo
